@@ -1,0 +1,13 @@
+{
+    "name": "Clips AI Multi Environment",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "postCreateCommand": "bash .devcontainer/setup.sh",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}
