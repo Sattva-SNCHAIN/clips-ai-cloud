@@ -63,7 +63,7 @@ source /workspaces/env-whisperx/bin/activate
 编辑 `run_clips.py`：
 
 ```python
-VIDEO_PATH = "/workspaces/clips-ai-deploy/your_video.mp4"
+VIDEO_PATH = "/workspaces/clips-ai-cloud/your_video.mp4"
 HF_TOKEN = "your token"
 ```
 
