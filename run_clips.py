@@ -1,7 +1,7 @@
 from clipsai import ClipFinder, Transcriber, resize
 
 # 修改成你的文件路径
-VIDEO_PATH = "/workspaces/clips-ai-deploy/sample.mp4"
+VIDEO_PATH = "/workspaces/clips-ai-cloud/sample.mp4"
 HF_TOKEN = "your_pyannote_token_here"
 
 # Step 1: Transcribe
